@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="ahmet.png" alt="screenshot"></a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Project : React Weather App
 
-### `npm start`
+## Table of contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Project Skeleton ](#project-skeleton)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## The challenge
+To create an advanced weather app with React and <a href="https://openweathermap.org/api">Open Weather API</a>
 
-### `npm run build`
+## Problem Statement
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Your company has recently started on a project that aims to create a well-designed weather app So you and your colleagues have started to work on the project.
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Project Skeleton 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+bootstrap-website(folder)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+|----README.md                   
+|----build
+|----public
+|----src
+    |----components
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshot
+<p align="center">
+<a href="https://shaggy-grape.surge.sh/"><img src="react-weather-app.gif" alt="screenshot"></a>
+</p>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Links
+<hr>
+<b>Check The Live Website ➡️</b> <a href="https://shaggy-grape.surge.sh/">Live Website</a>
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Built with
+-React Components, props, states, hooks
+- API GET requests (Fetch)
+- JSX Elements
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Styled Components](https://styled-components.com/) - For styles
+	
+- HTML Forms-Input Types 
 
-### Making a Progressive Web App
+- HTML Form Elements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- CSS Colors-Border Properties
 
-### Advanced Configuration
+- CSS Margins-Padding
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- CSS Properties for Texts-Font Families-Links
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+-
 
-### `npm run build` fails to minify
+## Notes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- You can use HTML,and CSS, JS and movie API to complete this project.
+
+### Useful resources
+
+- [W3 Schools](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
+- [Clarusway](https://clarusway.com/aws-devops/?gclid=Cj0KCQjwr4eYBhDrARIsANPywCjMru99tYkggAXDKaHPXlmNHqGXxFtkPw_EeiIechV8YNa6bUd9DLkaAsJkEALw_wcB) - This Project was assigned by Clarusway.
+
+
+
+
+## Author
+
+- Author - [Ahmet]
+
+<center> &#8987; Happy Coding  &#9997; </center>
